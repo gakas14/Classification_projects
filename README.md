@@ -5,7 +5,11 @@ This document content some classification systems. We used two of the most datas
 In these projects:
 -  Binary classifier.
 -  Performance Measures
-    - Measuring Accuracy using Cross-Validation, get the Confusion Matrix, get the Precision and Recall then analyse the ROC Curve and the ROC AUC.
+    - Measuring Accuracy using Cross-Validation, 
+    - Confusion Matrix, 
+    - Precision and Recall 
+    - Precision and Recal Trade-off
+    - ROC Curve and the ROC AUC.
 - Multiclass Classification.
 - Error Analysis.
 - Multilabel Classification.
